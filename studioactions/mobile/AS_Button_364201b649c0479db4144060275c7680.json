@@ -1,0 +1,27 @@
+{
+    "AS_Button_364201b649c0479db4144060275c7680": {
+        "id": "AS_Button_364201b649c0479db4144060275c7680",
+        "type": "ACTION_SEQUENCE",
+        "actions": [{
+            "id": "SET_FORM_WIDGET_PROPERTY_Untitled___daba5781d9ce401ebf7b89c89f2ab6b4",
+            "type": "SET_WIDGET_PROPERTY",
+            "itemType": "FORM",
+            "itemId": "constant",
+            "widgetId": "lbl1",
+            "propertyName": "text",
+            "propertyValue": "\"Label has been clicked for the purpose of creating a label\"",
+            "itemKUID": "141044df5bec4394b95d2d4df767151f",
+            "widgetKUID": "68e8ce07498744e3bb3e9cbc61a7930c",
+            "isSkinProperty": false,
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null
+        }, {
+            "id": "ADD_SNIPPET__a577f0c416184ffeb072bf2a1d755fdf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
